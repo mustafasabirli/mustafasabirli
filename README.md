@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Mute
-#### I am an amateur computer user.
-![I am an amateur computer user.](https://www.mustafasabirli.com/images/logo3.png)
+#### I am a computer user.
+<!--![I am an amateur computer user.](https://www.mustafasabirli.com/images/logo3.png)  -->
 
-I made this profile just for notice which I discover while I am using computer. or just fun.
+I made this profile just for notice which I discover while I am using computer.(~~or just fun~~)
 
 VM / ESXI / Linux
 
